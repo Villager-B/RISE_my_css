@@ -2,11 +2,11 @@
 
 ## custom.css
 
-custom.cssは~/.jupyter/customに保存してください．
+custom.cssは`~/.jupyter/custom`に保存してください．
 
 ## my_rise.css
 
-my_rise.cssは自分が使うNoteBookと同一のフォルダに入れてください．
+my_rise.cssは自分が使うJupyter Notebookと同一のフォルダに入れてください．
 
 使用するさいは，
 
