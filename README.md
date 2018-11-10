@@ -12,7 +12,7 @@ my_rise.cssは自分が使うJupyter Notebookと同一のフォルダに入れ�
 
 ```
 %%HTML
-<link rel="stylesheet" type="text/css" href="my_rise.css.css">
+<link rel="stylesheet" type="text/css" href="my_rise.css">
 ```
 
 をNoteBook内のどこかで実行してください．
