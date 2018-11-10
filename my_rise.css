@@ -109,14 +109,6 @@ td{
     color: #94c273;
 }
 
-.rise-enabled .reveal .slides div.prompt_container
-{
-    margin: 1px 0;
-    padding-left: -1000px;
-    /*color: #94c273;*/
-}
-
-
 .rise-enabled .reveal .slides div.prompt.output_prompt
 {
 	margin: 1px 0;
@@ -145,10 +137,6 @@ td{
     font-size: 60%;
 }
 
-.rise-enabled .reveal .slides div.cell.code_cell{
-    width: -1000px !important;
-    padding-left: -500px;
-}
 
 .rise-enabled .reveal .slides .container{
   color: #fcf1d3;/*文字色*/
@@ -159,6 +147,7 @@ height:300px;
   /*background-color:#eef;*/
 text-align:center;
 }
+
 .rise-enabled .reveal .slides .container .target{
 font-size: 100px;
 display:table-cell;
